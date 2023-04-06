@@ -1,5 +1,6 @@
 # Zoo Management - Training Project
 - Just project with my team for a website which manages a zoo.
+- Fork from [ngaly277/zoo-management](https://github.com/ngaly277/zoo-management).
 - **NOTE:** Do not use this as a real management unless you know what you're doing.
 
 ## Project Information:
