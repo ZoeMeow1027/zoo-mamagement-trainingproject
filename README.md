@@ -19,6 +19,7 @@
 - View database template [here](zoo-management.sql).
 
 ## Build WAR file with Apache Maven
+- **IMPORTANT:** You need to config database connection on [springmvc-servlet.xml](src/main/webapp/WEB-INF/springmvc-servlet.xml) before build or run project.
 - Quick build: `mvn war:war`
 - Clean: `mvn clean`
 - Clean -> Install all dependencies -> Build: `mvn clean install -U war:war`
